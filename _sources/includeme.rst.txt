@@ -1,0 +1,4 @@
+Generic Title
+=============
+
+.. include:: ../../README.rst

@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["includeme","index"],envversion:53,filenames:["includeme.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:1,gener:1,here:1,index:1,modul:1,page:1,search:1,titl:1,your:1},titles:["Generic Title","Welcome to hw3\u2019s documentation!"],titleterms:{document:1,gener:0,hw3:1,indic:1,tabl:1,titl:0,todo:1,welcom:1}})
