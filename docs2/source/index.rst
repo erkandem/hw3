@@ -18,7 +18,7 @@ Now for something completly different
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Dont forget that black friday is comming
    
-.. automodule:: launch
+.. automodule:: src
 .. autoclass:: MyHandleClass
 
 
