@@ -8,24 +8,18 @@ Readme
 This is the top level readme file which is also available on github.
 Using the description found at `daler/sphinxdoc-test <https://daler.github.io/sphinxdoc-test/includeme.html>`_
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
 
+Getting started
+^^^^^^^^^^^^^^^
+
+
+
+`Full documentation <https://erkandem.github.io/hw3-docs/index.html>`
    
 Documentation
 =============
 
-
-
-   
-   
 .. todo:: add something to the index
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
