@@ -1,9 +1,7 @@
 
 
-function  helloworld( bretzels, bier, wurst)
-% The mandatory Hello World Thing... You Know...
-%  also, since comment symbols are ignored by sphinx "double percent" symbols could
-%  be used and make files stay compatible with the MATLAB code publisher. 
+function hello_world(bretzels, bier, wurst)
+%% prints 'Hello World'  
 % 
 % :param bretzels: a snack  
 % :type bretzels: carbonhydrates
@@ -25,8 +23,9 @@ function  helloworld( bretzels, bier, wurst)
 % :note: if the chain of comments is intrerrupeded the sphinx is not listening 
 %        anymore. See: the fourth note:
 %
-d =1+1;
-g=5+5;
- sprintf('%s', "Hello World! I'm playing around with sterotypes")
+
+    d = 1 + 1;
+    g = 5 + 5;
+    fprintf('%s\n', 'Hello World!')
 
 end
