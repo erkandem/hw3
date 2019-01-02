@@ -22,5 +22,5 @@ Dont forget that black friday is comming
 .. autoclass:: MyHandleClass
 
 
-.. autofunction:: helloworld
+.. autofunction:: hello_world
 
